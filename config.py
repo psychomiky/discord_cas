@@ -1,7 +1,7 @@
-Token = 'MTI5ODU4ODcyNjMwMTI5NDYwMg.GSCP3Y.X2FMnIabSkBy7MO0u7qwmrFShGxhee_riw9HWM'
+Token = ''
 Prefix = '.'
-audit_webhook = "https://discord.com/api/webhooks/1380894011258175488/I9ZOnsDMnuuie9sq6QHw7C3snX8e-JfQ4bJprNikoarr-WaPFITNTj-Gt0HB2dRZzmj9"
-database_url = 'postgresql://postgres:rsV9T4hJqNLcKdGx@db.ztisioovubnckfmsodva.supabase.co:5432/postgres'
+audit_webhook = ""
+database_url = ''
 
 import disnake
 import configparser
